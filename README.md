@@ -1,6 +1,5 @@
 # ContactsEnd2EndTests
 Mobile Automated Tests using Appium and Selenium
-# Contact End 2 End Tests
 Contact application
 
 ### What is this repository for? ###
