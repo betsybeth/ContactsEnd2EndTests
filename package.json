@@ -1,0 +1,25 @@
+{
+  "name": "com.androids.contact",
+  "version": "1.0.0",
+  "description": "Mobile Automated Tests using Appium and Cucumber",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/cucumber-js features/createContact.feature -r support/Steps/contact.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/betsybeth/ContactsEnd2EndTests.git"
+  },
+  "author": "Beth Wambui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/betsybeth/ContactsEnd2EndTests/issues"
+  },
+  "homepage": "https://github.com/betsybeth/ContactsEnd2EndTests#readme",
+  "dependencies": {
+    "@cucumber/cucumber": "^7.0.0",
+    "chai": "^4.2.0",
+    "selenium-webdriver": "^4.0.0-alpha.8"
+  },
+  "devDependencies": {}
+}
