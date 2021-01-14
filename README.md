@@ -4,7 +4,7 @@ Mobile Automated Tests using Appium and Selenium
 Contact application
 
 ### What is this repository for? ###
-Contact testcase written using WebdriverIO and Mocha
+Contact testcase written using Appium and selenium, Cucumber
 
 #### Install
 * Node version 12 or higher 
